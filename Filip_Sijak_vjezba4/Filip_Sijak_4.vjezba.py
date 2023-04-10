@@ -21,9 +21,3 @@ for i in range(1, broj_studenata+1):
 print('Popis svih studenata: ')
 for student in studenti:
     ispis_studenta(student)
-
-
-
-
-
-

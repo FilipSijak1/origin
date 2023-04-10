@@ -1,4 +1,4 @@
-from ispit import get_ispit
+from ispiti import get_ispit
 def unos_studenta(ispiti, redni_broj):
     student = {}
     student['ime'] = input(f"Unesite ime {redni_broj}. studenta: ").capitalize()
