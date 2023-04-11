@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44341245-65aa-4f1d-8edb-433fce496346" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Filip_Sijak_vjezba4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ispiti/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ispiti/ispis_ispita.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ispiti/unos_ispita.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kolegij/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kolegij/ispis_kolegija.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kolegij/unos_kolegija.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/student/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/student/ispis_studenta.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/student/unos_studenta.py" beforeDir="false" />
-    </list>
+    <list default="true" id="44341245-65aa-4f1d-8edb-433fce496346" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
