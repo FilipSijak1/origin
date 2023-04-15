@@ -22,7 +22,7 @@ while running:
 
     elif akcija == 4:
         ispis_svih_kolegija(kolegiji)
-        
+
 
     if akcija == 7:
         running = False

@@ -4,7 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44341245-65aa-4f1d-8edb-433fce496346" name="Changes" comment="" />
+    <list default="true" id="93f09644-52aa-436a-8a57-9e76245f0721" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Filip_Sijak_vjezba4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Filip_Sijak_vjezba4/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Filip_Sijak_vjezba4/.idea/Filip_Sijak_vjezba4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Filip_Sijak_vjezba4/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Filip_Sijak_vjezba4/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Filip_Sijak_vjezba4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Filip_Sijak_vjezba4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Filip_Sijak_vjezba4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Filip_Sijak_vjezba4/Filip_Sijak_4.vjezba.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Filip_Sijak_vjezba4/Utilities.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Filip_Sijak_vjezba4/ispiti/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Filip_Sijak_vjezba4/ispiti/ispis_ispita.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Filip_Sijak_vjezba4/ispiti/unos_ispita.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Filip_Sijak_vjezba4/kolegij/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Filip_Sijak_vjezba4/kolegij/ispis_kolegija.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Filip_Sijak_vjezba4/kolegij/unos_kolegija.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Filip_Sijak_vjezba4/student/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Filip_Sijak_vjezba4/student/ispis_studenta.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Filip_Sijak_vjezba4/student/unos_studenta.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Filip_Sijak_vjezba4/vjezba5.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +48,10 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2OBZDhwRz2sCX5eXI3deYoa0tBW" />
+  <component name="ProjectId" id="2OFdxJWRFMGWoqIlWEFbXbV6Dwz" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,29 +60,24 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/filip/OneDrive/Desktop/vjezbe&quot;
+    &quot;last_opened_file_path&quot;: &quot;D:/intepreter&quot;
   }
 }</component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\filip\OneDrive\Desktop\vjezbe" />
-    </key>
-  </component>
   <component name="RunManager">
-    <configuration name="vjezba3" type="PythonConfigurationType" factoryName="Python">
+    <configuration name="Filip_Sijak_4.vjezba" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="vjezbe" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\filip\AppData\Local\Programs\Python\Python311\python.exe" />
-      <option name="SDK_NAME" value="Python 3.11" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="SDK_HOME" value="D:\intepreter\Scripts\python.exe" />
+      <option name="SDK_NAME" value="Python 3.11 (intepreter)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Filip_Sijak_vjezba4/Filip_Sijak_4.vjezba.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -67,12 +90,22 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="44341245-65aa-4f1d-8edb-433fce496346" name="Changes" comment="" />
-      <created>1681035817398</created>
+      <changelist id="93f09644-52aa-436a-8a57-9e76245f0721" name="Changes" comment="" />
+      <created>1681160508823</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1681035817398</updated>
+      <updated>1681160508823</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../ivatek/lv4.py</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
