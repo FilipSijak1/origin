@@ -1,7 +1,11 @@
 from Utilities import unos_intervala
 from kolegij import unos_kolegija, ispis_svih_kolegija
+from ispiti import unos_ispita, ispis_svih_ispita
+from student import unos_studenta, ispis_svih_studenata
 
 kolegiji = []
+ispiti = []
+studenti = []
 
 running = True
 while running:
@@ -19,9 +23,18 @@ while running:
 
     if akcija == 1:
         kolegiji.append(unos_kolegija(len(kolegiji)+1))
-
     elif akcija == 4:
         ispis_svih_kolegija(kolegiji)
+
+    if akcija == 2:
+        ispiti.append(unos_ispita(kolegiji, len(ispiti)+1))
+    elif akcija == 5:
+        ispis_svih_ispita(ispiti)
+
+    if akcija == 3:
+        studenti.append(unos_studenta(ispiti, len(studenti)+1))
+    elif akcija == 6:
+        ispis_svih_studenata(studenti)
 
 
     if akcija == 7:

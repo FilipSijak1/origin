@@ -5,30 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93f09644-52aa-436a-8a57-9e76245f0721" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Filip_Sijak_vjezba4/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Filip_Sijak_vjezba4/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Filip_Sijak_vjezba4/.idea/Filip_Sijak_vjezba4.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Filip_Sijak_vjezba4/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Filip_Sijak_vjezba4/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Filip_Sijak_vjezba4/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Filip_Sijak_vjezba4/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Filip_Sijak_vjezba4/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Filip_Sijak_vjezba4/Filip_Sijak_4.vjezba.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Filip_Sijak_vjezba4/Utilities.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Filip_Sijak_vjezba4/ispiti/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Filip_Sijak_vjezba4/ispiti/ispis_ispita.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Filip_Sijak_vjezba4/ispiti/unos_ispita.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Filip_Sijak_vjezba4/kolegij/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Filip_Sijak_vjezba4/kolegij/ispis_kolegija.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Filip_Sijak_vjezba4/kolegij/unos_kolegija.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Filip_Sijak_vjezba4/student/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Filip_Sijak_vjezba4/student/ispis_studenta.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Filip_Sijak_vjezba4/student/unos_studenta.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Filip_Sijak_vjezba4/vjezba5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utilities.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utilities.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ispiti/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ispiti/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ispiti/ispis_ispita.py" beforeDir="false" afterPath="$PROJECT_DIR$/ispiti/ispis_ispita.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ispiti/unos_ispita.py" beforeDir="false" afterPath="$PROJECT_DIR$/ispiti/unos_ispita.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/student/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/ispis_studenta.py" beforeDir="false" afterPath="$PROJECT_DIR$/student/ispis_studenta.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/student/unos_studenta.py" beforeDir="false" afterPath="$PROJECT_DIR$/student/unos_studenta.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vjezba5.py" beforeDir="false" afterPath="$PROJECT_DIR$/vjezba5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
